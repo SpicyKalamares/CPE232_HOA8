@@ -1,0 +1,5 @@
+[install_nagios_Ubuntu]
+192.168.56.105 ansible_python_interpreter=/usr/bin/python3 #server1
+
+[install_nagios_centos]
+192.168.56.107 ansible_python_interpreter=/usr/bin/python #centOS
